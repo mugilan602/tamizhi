@@ -102,7 +102,7 @@ const Home = () => {
                     </h2>
 
                     <h2 className={`text-4xl font-bold text-center text-gray-800 ${styles.iceberg}`}>
-                        Round 3: வசன விரல்
+                        Round 3: வசன விறல்
                     </h2>
 
                     {/* Timer Input and Controls */}
