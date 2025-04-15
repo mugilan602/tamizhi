@@ -96,12 +96,12 @@ const Home = () => {
                         </span>
                     </h2>
                     <h2 className={`text-4xl font-bold text-center m-2 text-gray-800 ${styles.iceberg}`}>
-                        <span className={`text-gray-800 text-5xl font-bold text-center ${styles.gritx}`}>
-                            தமிழி
+                        <span className={`text-gray-800 text-4xl font-bold text-center leading-tight ${styles.gritx}`}>
+                            அம்பேத்கர் ஜெயந்தி <br />தமிழி
                         </span>
                     </h2>
 
-                    <h2 className={`text-4xl font-bold text-center text-gray-800 ${styles.iceberg}`}>
+                    <h2 className={`text-3xl font-bold text-center text-gray-800 ${styles.iceberg}`}>
                         Round 3: வசன விறல்
                     </h2>
 
